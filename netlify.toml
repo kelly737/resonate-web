@@ -1,11 +1,6 @@
 [build]
-  publish = "dist"
-  command = "npm run build"
+publish = "."
+command = ""
 
-[redirects]
-  from = "/*"
-  to = "/index.html"
-  status = 200
-
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
+[plugins]
+# Removed Next.js plugin

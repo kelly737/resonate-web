@@ -1,0 +1,1 @@
+{"name": "resonate-web", "version": "1.0.0", "description": "Holistic Healing & MBLEX Mentorship", "main": "index.html", "scripts": {"build": "echo 'Build complete'", "start": "echo 'Starting server'"}, "keywords": ["healing", "mentorship", "MBLEX", "wellness"], "author": "kelly737", "license": "MIT"}
